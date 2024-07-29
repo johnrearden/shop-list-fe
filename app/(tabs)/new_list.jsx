@@ -9,7 +9,7 @@ export default function Index() {
             <View
                 className="h-full justify-center items-center"
             >
-                <Text className="italic text-white">Edit app/index.tsx to edit this screen, boyo.</Text>
+                <Text className="italic text-white">New List.</Text>
             </View>
 
             <StatusBar backgroundColor='#161622' style='light'/>
